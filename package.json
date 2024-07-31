@@ -1,0 +1,19 @@
+{
+  "name": "avaliacaou2--gqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiPedidosRotas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
